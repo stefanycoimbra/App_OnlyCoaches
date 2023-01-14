@@ -1,1 +1,1 @@
-# <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/null/external-application-business-innovation-wanicon-lineal-color-wanicon.png"/> OnlyCoaches: Application for monitoring and performing physical exercises
+# <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/30/null/external-application-business-innovation-wanicon-lineal-color-wanicon.png"/> OnlyCoaches: Application for monitoring and performing physical exercises
