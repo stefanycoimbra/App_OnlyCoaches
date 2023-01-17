@@ -2,7 +2,7 @@
 This document describes the requirements for a Mobile Platform System for Monitoring and Performance of Physical Exercises, called Only Coaches.
 
 ## <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-public-public-relations-agency-flaticons-lineal-color-flat-icons-3.png"/> What is the target audience?
-It is intended for to system users, stakeholders, customers, instructors, and software developers.
+It is intended for system users, stakeholders, customers, instructors, and software developers.
 
 ## <img src="https://img.icons8.com/emoji/40/null/bullseye.png"/> What is the app's main goal?
 Optimize the work of physical instructors and encourage the practice of physical exercise for people who would not be able to go to a gym, or have access to gym, or have access to weight-training and stretching equipment. This service is offered through a monthly or annual subscription.
