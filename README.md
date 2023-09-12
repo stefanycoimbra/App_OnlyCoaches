@@ -15,3 +15,10 @@ Optimize the work of physical instructors and encourage the practice of physical
 ## <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-prototype-web-development-flaticons-lineal-color-flat-icons.png"/> The prototype
 In order to validate the idea of the system, a complete display prototype was developed, with the functionalities of buttons and interactive flow for the user, in order for the latter to be the target of the user experience metrics.
 Thus, for all the development of screens and modules, [`Figma`](https://www.figma.com/) was used, chosen for being a professional and practical environment in the design of mobile and web prototypes. The development was up to the team, which was divided into: work on the prototype, tests, and system documentation. To identify all the screens and not get lost in the needs of the prototype, we also created a [`Trello`](https://trello.com/) with the goal of using the agile methodology from the beginning of the project.
+
+## <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/30/000000/external-developer-coding-kiranshastry-lineal-color-kiranshastry-1.png"/> Team
+* Alice Bernardi Gottardello (<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/> https://github.com/AliceBGott)
+* Camila Motta Renó (<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/> https://github.com/kcami)
+* João Marcos Cardoso de Oliveira (<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/> https://github.com/joao-mco)
+* Stéfany Coura Coimbra (<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/> https://github.com/stefanycoimbra)
+* Viviane Cardosina Cordeiro (<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/> https://github.com/VivianeCordeiro)
