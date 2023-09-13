@@ -1,16 +1,16 @@
 # <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/40/null/external-application-business-innovation-wanicon-lineal-color-wanicon.png"/> Only Coaches
-##### Este documento descreve os requisitos para uma aplicação para Monitoramento e Realização de Exercícios Físicos: Only Coaches.
+#### Este documento descreve os requisitos para uma aplicação para Monitoramento e Realização de Exercícios Físicos: Only Coaches.
 ----
 **This document describes the requirements for a Mobile Platform System for Monitoring and Performance of Physical Exercises, called Only Coaches.**
 
 
 ## <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-public-public-relations-agency-flaticons-lineal-color-flat-icons-3.png"/> Qual o público-alvo (What is the target audience)?
-O documento é destinado a usuários mobile, stakeholders, clientes, instrutores e desenvolvedores.
+#### O documento é destinado a usuários mobile, stakeholders, clientes, instrutores e desenvolvedores.
 ----
 **The document is intended for system users, stakeholders, customers, instructors, and software developers.**
 
 ## <img src="https://img.icons8.com/emoji/40/null/bullseye.png"/> Qual o objetivo principal do app (What is the app's main goal)?
-Otimizar o trabalho de instrutores e encorajar a prática de exercícios físicos para pessoas que não podem ir à uma academia, não têm acesso a ela ou, ainda, não têm acesso a equipamentos para exercitarem em casa. O serviço seria ofertado com uma assinatura mensal ou anual.
+#### Otimizar o trabalho de instrutores e encorajar a prática de exercícios físicos para pessoas que não podem ir à uma academia, não têm acesso a ela ou, ainda, não têm acesso a equipamentos para exercitarem em casa. O serviço seria ofertado com uma assinatura mensal ou anual.
 ----
 **Optimize the work of physical instructors and encourage the practice of physical exercise for people who would not be able to go to a gym, or have access to gym, or have access to weight-training and stretching equipment. This service is offered through a monthly or annual subscription.**
 
@@ -26,7 +26,7 @@ Otimizar o trabalho de instrutores e encorajar a prática de exercícios físico
 **At a periodic interval of time, reassessments can be made. In addition, the provides a community the opportunity for users to share their goals and progress.**
 
 ## <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-prototype-web-development-flaticons-lineal-color-flat-icons.png"/> O protótipo (The prototype)
-Para a validação do projeto, um protótipo foi desenvolvido com as funcionalidades de botões e fluxo interativo, para que fossem computabilizadas as métricas a partir do primeiro contato com o usuário.
+#### Para a validação do projeto, um protótipo foi desenvolvido com as funcionalidades de botões e fluxo interativo, para que fossem computabilizadas as métricas a partir do primeiro contato com o usuário.
 Todo o desenvolvimento de telas e módulos foi feito através da plataforma [`Figma`](https://www.figma.com/), escolhida por ser um ambiente profissional e prático em relação à construção de design mobile e em protótipos web. O desenvolvimento foi dividido em: protótipo, testes e documentação do sistema. Para identificar as telas e manter um trabalho mais organizado, também criamos um [`Trello`](https://trello.com/).
 ----
 **In order to validate the idea of the system, a complete display prototype was developed, with the functionalities of buttons and interactive flow for the user, in order to be the target of the user experience metrics.
