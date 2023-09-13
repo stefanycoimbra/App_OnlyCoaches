@@ -10,7 +10,7 @@ O documento é destinado a usuários mobile, stakeholders, clientes, instrutores
 **The document is intended for system users, stakeholders, customers, instructors, and software developers.**
 
 ## <img src="https://img.icons8.com/emoji/40/null/bullseye.png"/> Qual o objetivo principal do app (What is the app's main goal)?
-Otimizar o trabalho de instrutores e encorajar a prática de exercícios físicos para pessoas que não podem ir à uma academia ou não têm acesso a ela ou, ainda, não têm acesso a equipamentos para exercitarem. O serviço seria ofertado com uma assinatura mensal ou anual.
+Otimizar o trabalho de instrutores e encorajar a prática de exercícios físicos para pessoas que não podem ir à uma academia, não têm acesso a ela ou, ainda, não têm acesso a equipamentos para exercitarem em casa. O serviço seria ofertado com uma assinatura mensal ou anual.
 ----
 **Optimize the work of physical instructors and encourage the practice of physical exercise for people who would not be able to go to a gym, or have access to gym, or have access to weight-training and stretching equipment. This service is offered through a monthly or annual subscription.**
 
@@ -18,7 +18,7 @@ Otimizar o trabalho de instrutores e encorajar a prática de exercícios físico
 * Cada `aluno` recebe uma rotina personalizada de acordo com suas necessidades, seja para tratamento de alguma doença ou treinamento físico, com profissionais qualificados.
 ----
 **Each `user/student` receives a personalized workout for his or her needs, be it the prevention of diseases or muscular development, with qualified professionals.**
-* O `profissional`, com ajudo do app, possui os recursos para apresentar um planejamento específico para cada estudante, assim como vídeos e possui também acesso a um canal de comunicação com seus mentorandos.
+* O `profissional`, com ajuda do app, possui os recursos para apresentar um planejamento específico para cada estudante, assim como vídeos e possui também acesso a um canal de comunicação com seus mentorandos.
 ----
 **The `professional`, with the help of the app, has resources to present a specific training plan for the student, as well as videos and access to a communication channel between the two of them.**
 * Em um intervalo de tempo podem ser feitas avaliações e replanejamento. Além disso, há uma comunidade disponível para usuários compartilharem seus objetivos e progresso.
@@ -26,13 +26,13 @@ Otimizar o trabalho de instrutores e encorajar a prática de exercícios físico
 **At a periodic interval of time, reassessments can be made. In addition, the provides a community the opportunity for users to share their goals and progress.**
 
 ## <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-prototype-web-development-flaticons-lineal-color-flat-icons.png"/> O protótipo (The prototype)
-Para a validação do projeto, um protótipo foi desenvolvido, com as funcionalidades de botões e fluxo interativo para o usuário para que fossem computabilizadas as métricas a partir do primeiro contato com o usuário.
-Todo o desenvolvimento de telas e módulos foi feito através da plataforma [`Figma`](https://www.figma.com/), escolhida por ser um ambiente profissional e prático no design mobile e em protótipos web. O desenvolvimento foi dividido em: protótipo, testes e documentação do sistema. Para identificar as telas e manter um trabalho mais organizado, também criamos um [`Trello`](https://trello.com/).
+Para a validação do projeto, um protótipo foi desenvolvido com as funcionalidades de botões e fluxo interativo, para que fossem computabilizadas as métricas a partir do primeiro contato com o usuário.
+Todo o desenvolvimento de telas e módulos foi feito através da plataforma [`Figma`](https://www.figma.com/), escolhida por ser um ambiente profissional e prático em relação à construção de design mobile e em protótipos web. O desenvolvimento foi dividido em: protótipo, testes e documentação do sistema. Para identificar as telas e manter um trabalho mais organizado, também criamos um [`Trello`](https://trello.com/).
 ----
 **In order to validate the idea of the system, a complete display prototype was developed, with the functionalities of buttons and interactive flow for the user, in order to be the target of the user experience metrics.
 Thus, for all the development of screens and modules, [`Figma`](https://www.figma.com/) was used, chosen for being a professional and practical environment in the design of mobile and web prototypes. The development was up to the team, which was divided into: work on the prototype, tests, and system documentation. To identify all the screens and not get lost in the needs of the prototype, we also created a [`Trello`](https://trello.com/) with the goal of using the agile methodology from the beginning of the project.**
 
-## <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/30/000000/external-developer-coding-kiranshastry-lineal-color-kiranshastry-1.png"/> Team (Time)
+## <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/30/000000/external-developer-coding-kiranshastry-lineal-color-kiranshastry-1.png"/> Time (Team)
 * Alice Bernardi Gottardello (<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/> https://github.com/AliceBGott)
 * Camila Motta Renó (<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/> https://github.com/kcami)
 * João Marcos Cardoso de Oliveira (<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/> https://github.com/joao-mco)
